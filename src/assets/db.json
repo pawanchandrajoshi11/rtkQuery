@@ -1,0 +1,55 @@
+{
+  "posts": [
+    {
+      "title": "Post1",
+      "body": "some random posters",
+      "userId": 23,
+      "id": 1
+    },
+    {
+      "title": "Post2",
+      "body": "this is a second post body",
+      "userId": 45,
+      "id": 2
+    },
+    {
+      "title": "Post3",
+      "body": "another interesting post appears here",
+      "userId": 23,
+      "id": 3
+    },
+    {
+      "title": "Post4",
+      "body": "sharing some updates in this post",
+      "userId": 12,
+      "id": 4
+    },
+    {
+      "title": "Post5",
+      "body": "sharing post",
+      "userId": 15,
+      "id": 5
+    },
+    {
+      "id": 2929.3511500858726,
+      "title": "first one",
+      "body": "let see how it goes",
+      "userId": 8759.860742983052
+    },
+    {
+      "id": 8914.116883923305,
+      "title": "new post",
+      "body": "checking",
+      "userId": 1806.0807375576826
+    },
+    {
+      "id": 7203.090101891441,
+      "title": "Final Post",
+      "body": "with tag types inside mutation",
+      "userId": 3390.035718739408
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
